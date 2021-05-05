@@ -1,8 +1,60 @@
-# [Project name]
+# Machine Learning with TensorFlow on Google Cloud Platform
+
+Course Link: [Machine Learning with TensorFlow on Google Cloud Platform](https://www.coursera.org/specializations/machine-learning-tensorflow-gcp)
 
 
+This reporatory contains the solutions of every questions/quizes/exercises to achieve the badge as well as a short summary for each course, including
+
+## Course
+
+### 1. How Google does Machine Learning
+
+- [Course](https://www.coursera.org/learn/google-machine-learning)
+- [Solution]()
+<p align="center">
+    <img src="./Badges/Badge1.png" width="70%" height="50%" title="Badge 1" >
+</p>
+
+### 2. Launching into Machine Learning
+
+- [Course](https://www.coursera.org/learn/launching-machine-learning)
+- [Solution]()
+<p align="center">
+    <img src="./Badges/Badge2.png" width="70%" height="50%" title="Badge 2" >
+</p>
+
+### 3. Introduction to TensorFlow
+
+- [Course](https://www.coursera.org/learn/intro-tensorflow)
+- [Solution]()
+<p align="center">
+    <img src="./Badges/Badge3.png" width="70%" height="50%" title="Badge 3" >
+</p>
+
+### 4. Feature Engineering
+
+- [Course](https://www.coursera.org/learn/feature-engineering)
+- [Solution](./Course%204:%20Advanced%20Data%20Science%20Capstone/README.md)
+
+<p align="center">
+    <img src="./Badges/Badge 4.png" width="70%" height="50%" title="Badge 4" >
+</p>
+
+### 5. Art and Science of Machine Learning
+
+- [Course](https://www.coursera.org/learn/art-science-ml)
+- [Solution]()
+
+<p align="center">
+    <img src="./Badges/Badge 5.png" width="70%" height="50%" title="Badge 5" >
+</p>
+
+## Achievement goal:
+<p align="center">
+    <img src="./Badges/Badge.png" width="70%" height="50%" title="Badge" >
+</p>
 
 ## Contributors:
 
-- 🐔 [@tiena2cva](https://github.com/tiena2cva)
 - 🐮 [@honghanhh](https://github.com/honghanhh)
+- 🐔 [@tiena2cva](https://github.com/tiena2cva)
